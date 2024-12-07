@@ -84,5 +84,5 @@ _A list of my commonly used Git commands_
 
 | Command | Description |
 | ------- | ----------- |
-| `git pull origin main --allow-unrelated-histories` | Run this command first if your repository already contains README.MD or .gitignore |
+| `git pull origin main --allow-unrelated-histories` | (USE FOR `git remote add...` ONLY) Run this command first if repository already contains README.MD or .gitignore |
 | `git config --global init.defaultBranch main` | If you install via Visual Studio Installer, or anywhere else (not from git page), then run this command to change the branch to main in git config |
