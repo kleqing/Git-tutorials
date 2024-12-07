@@ -78,3 +78,11 @@ _A list of my commonly used Git commands_
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+
+### NOTE
+
+| Command | Description |
+| ------- | ----------- |
+| `git pull origin main --allow-unrelated-histories` | Run this command first if your repository already contains README.MD or .gitignore |
+| `git config --global init.defaultBranch main` | If you install via Visual Studio Installer, or anywhere else (not from git page), then run this command to change the branch to main in git config |
