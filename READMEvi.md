@@ -7,11 +7,11 @@ ___
 
 _Dưới đây là 1 vài mẹo dùng git mà mình học được_
 
-*Lưu ý: Đây không phải là fork từ (Git-Commands)[https://github.com/joshnh/bash_profile/blob/master/.bash_profile] mà là 1 vài hướng dẫn cách dùng cơ bản các câu lệnh git mà mình học được!*
+*Lưu ý: Đây không phải là fork từ [Git-Commands](https://github.com/joshnh/bash_profile/blob/master/.bash_profile) mà là 1 vài hướng dẫn cách dùng cơ bản các câu lệnh git mà mình học được!*
 
 --
 
-### Đăng kí với Git (Nếu cài qua (Git)[https://git-scm.com])
+### Đăng kí với Git (Nếu cài qua [Git](https://git-scm.com))
 
 | Lệnh | Mô tả |
 | ------- | ----------- |
@@ -96,7 +96,7 @@ _Dưới đây là 1 vài mẹo dùng git mà mình học được_
 ### Bonus
 
 Đây chỉ là 1 trong số ít các câu lệnh mà bạn sẽ dùng nhiều khi làm việc với git. Bạn có thể tham khảo thêm ở 1 vài nguồn khác:
-- (Awesome Git Commands)[https://github.com/onmyway133/awesome-git-commands]
-- (Atlassian Git)[https://www.atlassian.com/git/tutorials/setting-up-a-repository]
-- (Git game)[https://github.com/git-game/git-game]
-- (Learn Git Branching)[https://learngitbranching.js.org/]
+- [Awesome Git Commands](https://github.com/onmyway133/awesome-git-commands)
+- [Atlassian Git](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+- [Git game](https://github.com/git-game/git-game)
+- [Learn Git Branching](https://learngitbranching.js.org/)
