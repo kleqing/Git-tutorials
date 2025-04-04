@@ -1,7 +1,7 @@
 Git Commands
 ============
 
-## Translated Versions
+## Phiên bản khác đã được dịch
 - [English](README.md)
 ___
 
@@ -11,7 +11,7 @@ _Dưới đây là 1 vài mẹo dùng git mà mình học được_
 
 ---
 
-### Đăng kí với Git (Nếu cài qua [Git](https://git-scm.com))
+### Đăng kí với Git (Nếu cài đặt qua [Git](https://git-scm.com))
 
 | Lệnh | Mô tả |
 | ------- | ----------- |
