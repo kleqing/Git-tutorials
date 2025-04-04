@@ -7,9 +7,9 @@ ___
 
 _Dưới đây là 1 vài mẹo dùng git mà mình học được_
 
-*Lưu ý: Đây không phải là fork từ [Git-Commands](https://github.com/joshnh/bash_profile/blob/master/.bash_profile) mà là 1 vài hướng dẫn cách dùng cơ bản các câu lệnh git mà mình học được!*
+*Lưu ý: Đây không phải là fork từ [Git-Commands](https://github.com/joshnh/bash_profile/blob/master/.bash_profile) rồi dịch lại mà là 1 vài hướng dẫn cách dùng cơ bản các câu lệnh git mà mình học được!*
 
---
+---
 
 ### Đăng kí với Git (Nếu cài qua [Git](https://git-scm.com))
 
