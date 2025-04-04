@@ -2,7 +2,7 @@ Git Commands
 ============
 
 ## Translated Versions
-- [Tiếng Việt](READMEpt.md)
+- [Tiếng Việt](READMEvi.md)
 ___
 
 _A list of my commonly used Git commands_
