@@ -39,6 +39,7 @@ _Here are some Git tips I’ve learned._
 | `git rm -r [file-name.txt]` | Remove a file from both your local machine and staging area |
 | `git rm --cached [file-name.txt]` | Remove a file from the staging area but keep it locally |
 | `git remote -v` | Check the status of remote repositories |
+| `git revert [commit-id]` | Does not delete the old commit but creates a new commit that "reverses" the content of the old commit. |
 
 * **Tip:** ***If you’ve committed but haven’t pushed yet, you can use the following commands:***
 

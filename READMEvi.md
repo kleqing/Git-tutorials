@@ -39,6 +39,7 @@ _Dưới đây là 1 vài mẹo dùng git mà mình học được_
 | `git rm -r [file-name.txt]` | Xoá một file khỏi local và staging area |
 | `git rm --cached [file-name.txt]` | Xoá một file khỏi staging area nhưng vẫn giữ lại trên local |
 | `git remote -v` | Kiểm tra tình trạng remote |
+| `git revert [commit-id]` | Không xóa commit cũ mà tạo ra một commit mới "đảo ngược lại" nội dung của commit cũ. |
 
 * **Tips:** ***Nếu bạn lỡ commit nhưng chưa push, có thể dùng các lệnh sau:***
 
